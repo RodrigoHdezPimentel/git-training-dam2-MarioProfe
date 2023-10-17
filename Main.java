@@ -1,1 +1,3 @@
-psvm{}
+psvm{
+	syso("modificado");
+}
