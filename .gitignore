@@ -1,7 +1,7 @@
 # Ignorar archivos o ficheros
 .vscode
 
-# Podemos ignorar todo lo que empiece o acabe por algún patron
+# Podemos ignorar todo lo que empiece o acabe por algún patrón
 Ignorable*
 # Todos los archivos de un tipo en particular
 *.json
